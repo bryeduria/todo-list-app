@@ -2,6 +2,8 @@ import React from 'react'
 import {render} from 'react-dom'
 import './index.css'
 
+import TaskList from './components/taskList'
+
 const App  = () =>  {
 
     const descriptionStyle = {
@@ -15,9 +17,7 @@ const App  = () =>  {
                 <h1>Hello World!</h1>
                 <p style={descriptionStyle} className='description'>The most simple and amazing todo list for React app.</p>
 
-                <ul>
-                    <li className='tasks-item'>Follow me on <a href='https://github.com/bryeduria'>Github</a>.</li>
-                </ul>
+               <TaskList/>
 
             </header>
         </div>
