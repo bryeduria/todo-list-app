@@ -1,6 +1,6 @@
 # FDB React + AWS
 
-A Free Coding Bootcamp Project made with react, and deployed in AWS.
+A Free Coding Bootcamp Project made with React, and deployed in AWS.
 
 ---
 
