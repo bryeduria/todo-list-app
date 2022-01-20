@@ -8,7 +8,7 @@ const App  = () =>  {
         <div className='app'>
             <header className='app-header'>
 
-                <h1>Hello world!</h1>
+                <h1>Hello World!</h1>
                 <p>The most simple and amazing todo list for React app.</p>
 
             </header>
